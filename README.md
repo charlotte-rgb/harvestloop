@@ -10,7 +10,7 @@ Isaac Sim greenhouse tomato harvesting with a **frozen** Jackal + UR5e controlle
 
 Detection → active views → harvest (seed 7, high occlusion; 24s):
 
-[![Detection and harvest demo]](docs/demo/harvest_detection_clip.gif)
+![Detection and harvest demo](docs/demo/harvest_detection_clip.gif)
 
 ![Active perception: bad canonical → lateral rescue](docs/demo/active_perception.gif)
 
