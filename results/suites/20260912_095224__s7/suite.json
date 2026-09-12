@@ -1,0 +1,37 @@
+{
+  "suite_id": "20260912_095224__s7",
+  "scene_seed": 7,
+  "max_targets": 16,
+  "levels": [
+    "low",
+    "medium",
+    "high"
+  ],
+  "protocol": "shared_view_rescue_matched_manifest",
+  "gt_scoring_only": true,
+  "matched_targets": true,
+  "locked_target_count": 16,
+  "locked_truss_paths": [
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_01",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_02",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_04",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_03",
+    "/World/Greenhouse/Row_01_Left/Stems/Stem_06/Truss_02",
+    "/World/Greenhouse/Row_01_Left/Stems/Stem_06/Truss_01",
+    "/World/Greenhouse/Row_01_Left/Stems/Stem_06/Truss_03",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_03",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_01",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_02",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_04",
+    "/World/Greenhouse/Row_01_Left/Stems/Stem_05/Truss_02",
+    "/World/Greenhouse/Row_01_Left/Stems/Stem_05/Truss_01",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_05/Truss_03",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_05/Truss_02",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_05/Truss_01"
+  ],
+  "experiments": {
+    "low": "20260912_095224__s7__low",
+    "high": "20260912_095224__s7__high",
+    "medium": "20260912_095224__s7__medium"
+  }
+}

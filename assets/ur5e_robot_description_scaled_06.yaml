@@ -1,0 +1,236 @@
+# HarvestLoop: Lula robot description scaled for a 0.6x UR5e
+# Collision-sphere centers and radii are scaled by 0.6.
+# Joint-space quantities are intentionally unchanged.
+
+api_version: 1.0
+cspace:
+- shoulder_pan_joint
+- shoulder_lift_joint
+- elbow_joint
+- wrist_1_joint
+- wrist_2_joint
+- wrist_3_joint
+default_q:
+- 0.0
+- -1.0
+- 0.9
+- 0.0
+- 0.0
+- 0.0
+acceleration_limits:
+- 40.0
+- 40.0
+- 40.0
+- 40.0
+- 40.0
+- 40.0
+jerk_limits:
+- 10000.0
+- 10000.0
+- 10000.0
+- 10000.0
+- 10000.0
+- 10000.0
+cspace_to_urdf_rules: null
+collision_spheres:
+- wrist_1_link:
+  - center:
+    - -0.0
+    - 0.0162
+    - -0.0012
+    radius: 0.0246
+  - center:
+    - -0.0018
+    - -0.0192
+    - 0.0006
+    radius: 0.022199999999999998
+  - center:
+    - -0.0012
+    - -0.0018
+    - -0.0
+    radius: 0.0234
+  - center:
+    - -0.0
+    - 0.0
+    - -0.0348
+    radius: 0.027
+- wrist_2_link:
+  - center:
+    - -0.0
+    - 0.0
+    - -0.009
+    radius: 0.0246
+  - center:
+    - 0.0
+    - 0.010799999999999999
+    - 0.0006
+    radius: 0.0234
+  - center:
+    - 0.0
+    - -0.0198
+    - -0.0006
+    radius: 0.024
+- wrist_3_link:
+  - center:
+    - -0.0006
+    - 0.0012
+    - -0.015
+    radius: 0.022799999999999997
+- shoulder_link:
+  - center:
+    - -0.0036
+    - -0.0072
+    - 0.0162
+    radius: 0.035399999999999994
+  - center:
+    - 0.006599999999999999
+    - 0.0042
+    - -0.0288
+    radius: 0.033
+  - center:
+    - 0.010799999999999999
+    - -0.0186
+    - -0.0006
+    radius: 0.03
+- upper_arm_link:
+  - center:
+    - -0.1098
+    - 0.0
+    - 0.09
+    radius: 0.0414
+  - center:
+    - -0.20639999999999997
+    - 0.0
+    - 0.0756
+    radius: 0.0414
+  - center:
+    - -0.018
+    - 0.0
+    - 0.0876
+    radius: 0.0414
+  - center:
+    - -0.255
+    - 0.0
+    - 0.08519999999999998
+    radius: 0.0414
+  - center:
+    - -0.162
+    - -0.0006
+    - 0.0906
+    radius: 0.0414
+  - center:
+    - -0.066
+    - 0.0
+    - 0.08220000000000001
+    radius: 0.0414
+  - center:
+    - 0.0006
+    - -0.0
+    - 0.081
+    radius: 0.0408
+  - center:
+    - -0.1356
+    - -0.0006
+    - 0.07379999999999999
+    radius: 0.0408
+  - center:
+    - -0.2556
+    - -0.0006
+    - 0.07079999999999999
+    radius: 0.0402
+  - center:
+    - -0.21539999999999998
+    - 0.003
+    - 0.093
+    radius: 0.0384
+  - center:
+    - -0.1842
+    - 0.0
+    - 0.0726
+    radius: 0.0414
+  - center:
+    - -0.0936
+    - -0.0
+    - 0.0774
+    radius: 0.0414
+  - center:
+    - -0.07379999999999999
+    - -0.0006
+    - 0.0906
+    radius: 0.0408
+  - center:
+    - -0.0384
+    - 0.003
+    - 0.075
+    radius: 0.0384
+- forearm_link:
+  - center:
+    - -0.003
+    - 0.0006
+    - 0.0288
+    radius: 0.035399999999999994
+  - center:
+    - -0.1902
+    - 0.0
+    - -0.0006
+    radius: 0.031799999999999995
+  - center:
+    - -0.2316
+    - -0.0
+    - 0.0126
+    radius: 0.0294
+  - center:
+    - -0.006
+    - 0.0006
+    - 0.010799999999999999
+    radius: 0.0312
+  - center:
+    - -0.1608
+    - 0.0
+    - -0.0006
+    radius: 0.0324
+  - center:
+    - -0.0204
+    - -0.0
+    - 0.0084
+    radius: 0.0348
+  - center:
+    - -0.2358
+    - 0.0006
+    - -0.011399999999999999
+    radius: 0.0282
+  - center:
+    - -0.1956
+    - -0.005399999999999999
+    - 0.0168
+    radius: 0.0252
+  - center:
+    - -0.20520000000000002
+    - 0.0
+    - -0.0048
+    radius: 0.030599999999999995
+  - center:
+    - 0.0186
+    - -0.005399999999999999
+    - 0.022199999999999998
+    radius: 0.0198
+  - center:
+    - -0.13319999999999999
+    - 0.0
+    - 0.0012
+    radius: 0.033
+  - center:
+    - -0.10559999999999999
+    - 0.0
+    - 0.003
+    radius: 0.033
+  - center:
+    - -0.0774
+    - 0.0
+    - 0.0048
+    radius: 0.0336
+  - center:
+    - -0.0492
+    - 0.0
+    - 0.006599999999999999
+    radius: 0.0342

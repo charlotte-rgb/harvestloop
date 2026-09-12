@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+.venv/
+venv/
+.env
+
+# Editor / OS
+.DS_Store
+*.swp
+*~
+*.usd.bak
+
+# Local / heavy / transient experiment dumps
+perception_debug/
+.refactor_backup/
+results/runs/
+results/comparisons/
+results/figures/
+results/prompt.txt
+results/suites/prompt.txt
+results/*.usda
+results/harvest_reliability_*.csv
+results/harvest_reliability_*.json
+
+# Keep tracked: results/suites/<final batch>/ summaries + docs/demo/

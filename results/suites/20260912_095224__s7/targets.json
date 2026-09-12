@@ -1,0 +1,290 @@
+{
+  "suite_id": "20260912_095224__s7",
+  "scene_seed": 7,
+  "occlusion_level": "medium",
+  "max_targets": 16,
+  "discovered": 34,
+  "protocol": "shared_view_rescue_matched_manifest",
+  "gt_scoring_only": true,
+  "matched_targets": true,
+  "fixed_views": 1,
+  "active_max_views": 3,
+  "targets": [
+    {
+      "stop_index": 1,
+      "stop_x": -0.15346724113107413,
+      "side": "left",
+      "stem_name": "Stem_07",
+      "stem_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_07",
+      "truss_name": "Truss_01",
+      "truss_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_01",
+      "truss_index": 1,
+      "look_target": [
+        -0.530973482644425,
+        2.393871513099314,
+        0.6190977946534972
+      ]
+    },
+    {
+      "stop_index": 1,
+      "stop_x": -0.15346724113107413,
+      "side": "left",
+      "stem_name": "Stem_07",
+      "stem_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_07",
+      "truss_name": "Truss_02",
+      "truss_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_02",
+      "truss_index": 2,
+      "look_target": [
+        -0.5298991857307687,
+        2.3880888309323023,
+        0.6453983056763906
+      ]
+    },
+    {
+      "stop_index": 1,
+      "stop_x": -0.15346724113107413,
+      "side": "left",
+      "stem_name": "Stem_07",
+      "stem_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_07",
+      "truss_name": "Truss_04",
+      "truss_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_04",
+      "truss_index": 4,
+      "look_target": [
+        -0.5302889776988866,
+        2.3808063560759862,
+        0.7580994261272531
+      ]
+    },
+    {
+      "stop_index": 1,
+      "stop_x": -0.15346724113107413,
+      "side": "left",
+      "stem_name": "Stem_07",
+      "stem_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_07",
+      "truss_name": "Truss_03",
+      "truss_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_03",
+      "truss_index": 3,
+      "look_target": [
+        -0.5308235751863715,
+        2.392610160400716,
+        0.7788057358460105
+      ]
+    },
+    {
+      "stop_index": 2,
+      "stop_x": -0.1577227257026832,
+      "side": "right",
+      "stem_name": "Stem_06",
+      "stem_path": "/World/Greenhouse/Row_01_Left/Stems/Stem_06",
+      "truss_name": "Truss_02",
+      "truss_path": "/World/Greenhouse/Row_01_Left/Stems/Stem_06/Truss_02",
+      "truss_index": 2,
+      "look_target": [
+        -0.5346767458438633,
+        1.5280258770228292,
+        0.6393263906464044
+      ]
+    },
+    {
+      "stop_index": 2,
+      "stop_x": -0.1577227257026832,
+      "side": "right",
+      "stem_name": "Stem_06",
+      "stem_path": "/World/Greenhouse/Row_01_Left/Stems/Stem_06",
+      "truss_name": "Truss_01",
+      "truss_path": "/World/Greenhouse/Row_01_Left/Stems/Stem_06/Truss_01",
+      "truss_index": 1,
+      "look_target": [
+        -0.5337308788405432,
+        1.5341897585861712,
+        0.6982529103546141
+      ]
+    },
+    {
+      "stop_index": 2,
+      "stop_x": -0.1577227257026832,
+      "side": "right",
+      "stem_name": "Stem_06",
+      "stem_path": "/World/Greenhouse/Row_01_Left/Stems/Stem_06",
+      "truss_name": "Truss_03",
+      "truss_path": "/World/Greenhouse/Row_01_Left/Stems/Stem_06/Truss_03",
+      "truss_index": 3,
+      "look_target": [
+        -0.534055944107851,
+        1.5303815008272361,
+        0.8005342113770109
+      ]
+    },
+    {
+      "stop_index": 3,
+      "stop_x": -0.367703371196191,
+      "side": "left",
+      "stem_name": "Stem_06",
+      "stem_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_06",
+      "truss_name": "Truss_03",
+      "truss_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_03",
+      "truss_index": 3,
+      "look_target": [
+        -0.7451647134686868,
+        2.3160137573359822,
+        0.6306370227850884
+      ]
+    },
+    {
+      "stop_index": 3,
+      "stop_x": -0.367703371196191,
+      "side": "left",
+      "stem_name": "Stem_06",
+      "stem_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_06",
+      "truss_name": "Truss_01",
+      "truss_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_01",
+      "truss_index": 1,
+      "look_target": [
+        -0.7439607508578449,
+        2.3242073455041607,
+        0.657260772177312
+      ]
+    },
+    {
+      "stop_index": 3,
+      "stop_x": -0.367703371196191,
+      "side": "left",
+      "stem_name": "Stem_06",
+      "stem_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_06",
+      "truss_name": "Truss_02",
+      "truss_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_02",
+      "truss_index": 2,
+      "look_target": [
+        -0.7445234425335232,
+        2.3300635531448073,
+        0.7265659630439317
+      ]
+    },
+    {
+      "stop_index": 3,
+      "stop_x": -0.367703371196191,
+      "side": "left",
+      "stem_name": "Stem_06",
+      "stem_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_06",
+      "truss_name": "Truss_04",
+      "truss_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_04",
+      "truss_index": 4,
+      "look_target": [
+        -0.7437545304591764,
+        2.3254839129531124,
+        0.7360880763598854
+      ]
+    },
+    {
+      "stop_index": 4,
+      "stop_x": -0.4039262968745315,
+      "side": "right",
+      "stem_name": "Stem_05",
+      "stem_path": "/World/Greenhouse/Row_01_Left/Stems/Stem_05",
+      "truss_name": "Truss_02",
+      "truss_path": "/World/Greenhouse/Row_01_Left/Stems/Stem_05/Truss_02",
+      "truss_index": 2,
+      "look_target": [
+        -0.7800212830709137,
+        1.5458904188400564,
+        0.5953302957041855
+      ]
+    },
+    {
+      "stop_index": 4,
+      "stop_x": -0.4039262968745315,
+      "side": "right",
+      "stem_name": "Stem_05",
+      "stem_path": "/World/Greenhouse/Row_01_Left/Stems/Stem_05",
+      "truss_name": "Truss_01",
+      "truss_path": "/World/Greenhouse/Row_01_Left/Stems/Stem_05/Truss_01",
+      "truss_index": 1,
+      "look_target": [
+        -0.7808946500192973,
+        1.5404663013990052,
+        0.7653650104049344
+      ]
+    },
+    {
+      "stop_index": 5,
+      "stop_x": -0.5972986428916592,
+      "side": "left",
+      "stem_name": "Stem_05",
+      "stem_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_05",
+      "truss_name": "Truss_03",
+      "truss_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_05/Truss_03",
+      "truss_index": 3,
+      "look_target": [
+        -0.9733466089619294,
+        2.3258737030137286,
+        0.6576771815040732
+      ]
+    },
+    {
+      "stop_index": 5,
+      "stop_x": -0.5972986428916592,
+      "side": "left",
+      "stem_name": "Stem_05",
+      "stem_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_05",
+      "truss_name": "Truss_02",
+      "truss_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_05/Truss_02",
+      "truss_index": 2,
+      "look_target": [
+        -0.9736297954361848,
+        2.3255724169598304,
+        0.6681664617842963
+      ]
+    },
+    {
+      "stop_index": 5,
+      "stop_x": -0.5972986428916592,
+      "side": "left",
+      "stem_name": "Stem_05",
+      "stem_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_05",
+      "truss_name": "Truss_01",
+      "truss_path": "/World/Greenhouse/Row_02_Left/Stems/Stem_05/Truss_01",
+      "truss_index": 1,
+      "look_target": [
+        -0.9741508363015329,
+        2.3294921261400834,
+        0.6804278679895925
+      ]
+    }
+  ],
+  "truss_paths": [
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_01",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_02",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_04",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_07/Truss_03",
+    "/World/Greenhouse/Row_01_Left/Stems/Stem_06/Truss_02",
+    "/World/Greenhouse/Row_01_Left/Stems/Stem_06/Truss_01",
+    "/World/Greenhouse/Row_01_Left/Stems/Stem_06/Truss_03",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_03",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_01",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_02",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_06/Truss_04",
+    "/World/Greenhouse/Row_01_Left/Stems/Stem_05/Truss_02",
+    "/World/Greenhouse/Row_01_Left/Stems/Stem_05/Truss_01",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_05/Truss_03",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_05/Truss_02",
+    "/World/Greenhouse/Row_02_Left/Stems/Stem_05/Truss_01"
+  ],
+  "stop_indices": [
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4,
+    5,
+    5,
+    5
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "batch_id": "20260912_095224",
+  "seeds": [
+    42,
+    7,
+    99
+  ],
+  "expect_n": 16,
+  "protocol": "shared_view_rescue_matched_manifest",
+  "claim_scope": {
+    "ap_improves_failure_recovery": true,
+    "monotonic_with_occlusion": false,
+    "mean_localization_improvement": false
+  }
+}
